@@ -19,8 +19,7 @@ and share.
 code quickly.
 
 ## Terraform Architecture
-![Terraform Architecture]()
-
+![Terraform Architecture](https://github.com/AliFareed0009/Terraform-for-DevOps/blob/a7b2d8b8e1132320a3cd9967d1f49ea830514938/Images/Terraform%20Architecture.png)
 
 ## Blocks and Arguments
 -   A block is a container for other content and An argument assigns a value to a particular name:
@@ -97,7 +96,7 @@ resources.
 
 ## Terraform State
 
-![Terraform State]()
+![Terraform State](https://github.com/AliFareed0009/Terraform-for-DevOps/blob/a7b2d8b8e1132320a3cd9967d1f49ea830514938/Images/terraform%20State.jpg)
 
 -   Whenever we do terraform init, the plugins are installed
 -   Whenever we do a terraform plan, the execution plan is generated
