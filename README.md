@@ -9,13 +9,18 @@ and share.
 
 ## Challenges in IT Infrastructure
 
-[Challenges in IT Infrastructure](https://github.com/AliFareed0009/Terraform-for-DevOps/blob/53a8e0e8db39e59cfe905c58a75a99fbcbb78ee8/Images/Challenges%20in%20IT%20Infrastructure.png)
+![Challenges in IT Infrastructure](https://github.com/AliFareed0009/Terraform-for-DevOps/blob/53a8e0e8db39e59cfe905c58a75a99fbcbb78ee8/Images/Challenges%20in%20IT%20Infrastructure.png)
+
 
 ## What is Terraform
 -   Terraform is HashiCorp's infrastructure as a code tool. It lets you define resources and infrastructure in human-readable, declarative configuration files and manages your infrastructure's lifecycle. Using Terraform has several advantages over manually managing your infrastructure
 -   Terraform can manage infrastructure on multiple cloud platforms.
 -   The human-readable configuration language helps you write infrastructure
 code quickly.
+
+## Terraform Architecture
+![Terraform Architecture]()
+
 
 ## Blocks and Arguments
 -   A block is a container for other content and An argument assigns a value to a particular name:
@@ -91,6 +96,8 @@ resources.
         provider "docker" {}
 
 ## Terraform State
+
+![Terraform State]()
 
 -   Whenever we do terraform init, the plugins are installed
 -   Whenever we do a terraform plan, the execution plan is generated
