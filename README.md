@@ -7,6 +7,22 @@ you to build, change, and manage your infrastructure in a safe, consistent,
 and repeatable way by defining resource configurations you can version, reuse,
 and share.
 
+## Files and there Commands
+
+#### 
+
+| Folder Name | Commands Use     | Description                       |
+| :-------- | :------- | :-------------------------------- |
+| `Mini-Project` | `AWS ` | Creating AWS ec2 instance  |
+| `Mega-Project` | `MS Azure` | Creating MS Azure Virtual Machine  |
+| `terraform-backend` | `Intilize Backend` | Intilize Backend for state File |
+| `terraform-dataType` | `dataType` | Exploring dataType in Terraform |
+| `terraform_dockerfile_install.txt` | `Docker` | Installing docker and Nginx with Terraform |
+| `terraform-local.txt` | `Local` | Creating Local Files with Terraform |
+| `terraform-modules` | `Modules` |  Using Terraform with modules |
+| `terraform-variables` | `Variables` | Using Variables in Terraform |
+
+
 ## Challenges in IT Infrastructure
 
 ![Challenges in IT Infrastructure](https://github.com/AliFareed0009/Terraform-for-DevOps/blob/53a8e0e8db39e59cfe905c58a75a99fbcbb78ee8/Images/Challenges%20in%20IT%20Infrastructure.png)
